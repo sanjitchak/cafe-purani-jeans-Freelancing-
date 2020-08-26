@@ -43,7 +43,7 @@ h4 {
 }
 
 .head {
-    background-image: url('https://www.cafepuranijeans.com/wp-content/uploads/2020/03/about02.jpg');
+    background-image: url('./images/rolls.jpeg');
     height: 100%;
     background-attachment: fixed;
     background-position: center;
@@ -56,7 +56,7 @@ h4 {
 }
 
 .footer {
-    background-image: url('https://www.healthline.com/hlcmsresource/images/AN_images/healthy-eating-ingredients-1200x628-facebook.jpg');
+    background-image: url('./images/bg02-1024x683.jpg');
     height: 100%;
     background-attachment: fixed;
     background-position: center;
@@ -148,3 +148,19 @@ h4 {
         border-bottom: 1px solid grey;
     }
 }
+
+ 
+  .greendot {
+    height: 15px;
+    width: 15px;
+    background-color: green;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .reddot {
+    height: 15px;
+    width: 15px;
+    background-color: red;
+    border-radius: 50%;
+    display: inline-block;
+  }
