@@ -113,7 +113,17 @@ h4 {
 .red-small {
     color: red;
 }
+.card{
+padding: 0 !important;
+margin: 0;
+}
 
+.card-title {
+    padding-top: 10px;
+    color: #33373d;
+    font-size: 16px;
+    text-transform: uppercase;
+}
 /* Responsive to specific width */
 @media only screen and (max-width: 425px) {
     .nav-link {
